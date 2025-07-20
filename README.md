@@ -18,7 +18,7 @@ Este projeto consiste na reprodução do template **Awax**, desenvolvido durante
 --------------------------
 1. Faça o download do arquivo ZIP do projeto.
 2. Extraia o conteúdo em uma pasta de sua preferência.
-3. Abra o arquivo `home.html` em seu navegador para visualizar o projeto.
+3. Abra o arquivo `index.html` em seu navegador para visualizar o projeto.
 
 ---
 
